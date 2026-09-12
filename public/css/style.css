@@ -1,6 +1,17 @@
-body{
+/* body{
     font-family: "Plus jakarta Sans", sans-serif !important;
+} */
+body {
+    font-family: "Plus Jakarta Sans", sans-serif !important;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
+
+main {
+    flex: 1;
+}
+
 .navbar{
     height: 5rem;
     background-color: white;
