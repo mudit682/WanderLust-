@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node" : "22.13.0"
+    "node": "22.13.0"
   },
   "name": "wanderlust",
   "version": "1.0.0",
@@ -15,7 +15,7 @@
   "type": "commonjs",
   "dependencies": {
     "axios": "^1.10.0",
-    "cloudinary": "^2.7.0",
+    "cloudinary": "^1.41.3",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^6.0.0",
     "dotenv": "^17.0.1",
